@@ -1,0 +1,12 @@
+bootstrap general layout
+
+html; give id to elements that need to be interactive
+
+create js fil
+
+create event handler: window.onload
+
+even handler for radio buttons
+decide withc of the two areas will be displayed
+
+event handler for calculator buttons
